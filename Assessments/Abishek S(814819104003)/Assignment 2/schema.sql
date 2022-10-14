@@ -11,6 +11,6 @@ CREATE TABLE users (
 INSERT INTO users (username, password, name, email) VALUES (
     "nmm",
     "nmm768",
-    "musthapa",
+    "abishek",
     "nmm123@gmail.com"
 );
